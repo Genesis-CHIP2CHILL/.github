@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Genesis-CHIP2CHILL/.github/main/profile/assets/chip2chill-logo.png" alt="CHIP2CHILL logo" width="640">
+  <img src="https://raw.githubusercontent.com/Genesis-CHIP2CHILL/.github/main/profile/assets/chip2chill-logo.png" alt="CHIP2CHILLER logo" width="640">
 </p>
 
 <h3 align="center">Verifiable edge AI for data center thermal management</h3>
 
-**CHIP2CHILL** is a Genesis 10B research collaboration developing energy-efficient, reliable thermal control from chips and racks to facility cooling. We combine differentiable digital twins, hierarchical predictive control, and AI agents that automate controller synthesis and verification.
+**CHIP2CHILLER** is a Genesis 10B research collaboration developing energy-efficient, reliable thermal control from chips and racks to facility cooling. We combine differentiable digital twins, hierarchical predictive control, and AI agents that automate controller synthesis and verification.
 
 Our work connects:
 
@@ -16,7 +16,7 @@ Our work connects:
 
 Led by **Johns Hopkins University**, in collaboration with **Pacific Northwest National Laboratory**, **Siemens**, and **Phaidra**.
 
-[![CHIP2CHILL project organization chart with investigators, researchers, partners, and task leads](https://raw.githubusercontent.com/Genesis-CHIP2CHILL/.github/main/profile/assets/genesis-team-chart.png)](https://raw.githubusercontent.com/Genesis-CHIP2CHILL/.github/main/profile/assets/genesis-team-chart.png)
+[![CHIP2CHILLER project organization chart with investigators, researchers, partners, and task leads](https://raw.githubusercontent.com/Genesis-CHIP2CHILL/.github/main/profile/assets/genesis-team-chart.png)](https://raw.githubusercontent.com/Genesis-CHIP2CHILL/.github/main/profile/assets/genesis-team-chart.png)
 
 | Task | Focus | Lead |
 | --- | --- | --- |
@@ -26,7 +26,7 @@ Led by **Johns Hopkins University**, in collaboration with **Pacific Northwest N
 | 5 | Hierarchical control | Gaoyuan Wu |
 | 6 | System-wide verification and release | Aaron Tuor |
 
-<sub>Task numbers follow the project work plan. Team and assignments updated October 2026. [Image credits](https://github.com/Genesis-CHIP2CHILL/.github/blob/main/profile/IMAGE_CREDITS.md).</sub>
+<sub>Task numbers follow the project work plan. Siemens roster updated November 4, 2026. Task assignments confirmed October 2026. [Image credits](https://github.com/Genesis-CHIP2CHILL/.github/blob/main/profile/IMAGE_CREDITS.md).</sub>
 
 ## Explore
 

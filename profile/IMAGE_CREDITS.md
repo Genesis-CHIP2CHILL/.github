@@ -1,8 +1,8 @@
 # Image credits
 
-The CHIP2CHILL logo was generated for this project using OpenAI’s image-generation tool.
+The CHIP2CHILLER logo was generated for this project using OpenAI’s image-generation tool.
 
-The organization chart combines the project proposal, work plan, public research-group pages, and confirmed team updates from October 2026. Portraits are credited below; most source pages do not state the photograph’s capture date.
+The organization chart combines the project proposal, work plan, public research-group pages, and confirmed team updates through November 4, 2026. Portraits are credited below; most source pages do not state the photograph’s capture date.
 
 - **Ján Drgoňa:** [Solaris Lab](https://solaris-jhu.github.io/solaris-website/people.html).
 - **Yury Dvorkin:** [SEARCH Group](https://ydvorkin.github.io/dvorkin.html).
@@ -17,6 +17,7 @@ The organization chart combines the project proposal, work plan, public research
 - **Draguna Vrabie:** [PNNL](https://www.pnnl.gov/people/draguna-vrabie-phd).
 - **Aaron Tuor:** [PNNL](https://www.pnnl.gov/people/aaron-tuor).
 - **Ulrich Muenz:** [Princeton GradFUTURES](https://gradfutures.princeton.edu/grad-stories/ulrich-muenz).
+- **Nareshkumar Nandola:** [Google Scholar profile of Naresh N Nandola](https://scholar.google.com/citations?user=5F0hGUsAAAAJ).
 - **Vedavyas Panneershelvam:** [Phaidra leadership page](https://www.phaidra.ai/about).
 
 Initials are used for participants whose photographs were unavailable.
