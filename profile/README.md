@@ -18,15 +18,15 @@ Led by **Johns Hopkins University**, in collaboration with **Pacific Northwest N
 
 [![CHIP2CHILLER project organization chart with investigators, researchers, partners, and task leads](https://raw.githubusercontent.com/Genesis-CHIP2CHILL/.github/main/profile/assets/genesis-team-chart.png)](https://raw.githubusercontent.com/Genesis-CHIP2CHILL/.github/main/profile/assets/genesis-team-chart.png)
 
-| Task | Focus | Lead |
-| --- | --- | --- |
-| 1 | Differentiable models | Wei Wang |
-| 2 | Liquid-cooling loop control | Stephen Ampleman |
-| 4 | Chiller-plant differentiable predictive control | Honghui Zheng; support: Zhiyi Zhou |
-| 5 | Hierarchical control | Gaoyuan Wu |
-| 6 | System-wide verification and release | Aaron Tuor |
+| Task | Focus | Lead | Support |
+| --- | --- | --- | --- |
+| 1 | Differentiable models | Wei Wang | Maven Holst |
+| 2 | Liquid-cooling loop control | Stephen Ampleman | Dibakar Roy Sarkar |
+| 4 | Chiller-plant differentiable predictive control | Honghui Zheng | Zhiyi Zhou, Maven Holst |
+| 5 | Hierarchical control | Gaoyuan Wu | |
+| 6 | System-wide verification and release | Aaron Tuor | |
 
-<sub>Task numbers follow the project work plan. Siemens roster updated November 4, 2026. Task assignments confirmed October 2026. [Image credits](https://github.com/Genesis-CHIP2CHILL/.github/blob/main/profile/IMAGE_CREDITS.md).</sub>
+<sub>Task numbers follow the project work plan. Siemens roster updated November 4, 2026. Task support updated November 4, 2026. [Image credits](https://github.com/Genesis-CHIP2CHILL/.github/blob/main/profile/IMAGE_CREDITS.md).</sub>
 
 ## Explore
 
