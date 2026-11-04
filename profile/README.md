@@ -22,8 +22,8 @@ Led by **Johns Hopkins University**, in collaboration with **Pacific Northwest N
 | --- | --- | --- | --- |
 | 1 | Differentiable models | Wei Wang | Maven Holst |
 | 2 | Liquid-cooling loop control | Stephen Ampleman | Dibakar Roy Sarkar |
-| 4 | Chiller-plant differentiable predictive control | Honghui Zheng | Zhiyi Zhou, Maven Holst |
-| 5 | Hierarchical control | Gaoyuan Wu | |
+| 4 | Chiller-plant differentiable predictive control | Honghui Zheng | Zhiyi Zhou  |
+| 5 | Hierarchical control | Gaoyuan Wu | Maven Holst |
 | 6 | System-wide verification and release | Aaron Tuor | |
 
 <sub>Task numbers follow the project work plan. Siemens roster updated November 4, 2026. Task support updated November 4, 2026. [Image credits](https://github.com/Genesis-CHIP2CHILL/.github/blob/main/profile/IMAGE_CREDITS.md).</sub>
