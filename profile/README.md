@@ -29,13 +29,14 @@ Led by **Johns Hopkins University**, in collaboration with **Pacific Northwest N
 | 5 | Integration, development workflows, and visualization | Gaoyuan Wu | Honghui Zheng |
 | 6 | System-wide verification and benchmarking | Aaron Tuor | |
 | 7 | Model and policy synthesis agentic workflows | PNNL | |
+| 8 | Automation software in the loop deployment | Siemens | |
 
 ## Extension tasks
 
 | Task | Focus | Lead | Support |
 | --- | --- | --- | --- |
-| 8 | UQ and stochastic problem formulations | Zhiyi Zhou | |
-| 9 | Workload scheduling | Gaoyuan Wu | |
+| 9 | UQ and stochastic problem formulations | Zhiyi Zhou | |
+| 10 | Workload scheduling | Gaoyuan Wu | |
 
 ## Explore
 
