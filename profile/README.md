@@ -25,7 +25,7 @@ Led by **Johns Hopkins University**, in collaboration with **Pacific Northwest N
 | 1 | Chip level model implementation | Wei Wang | |
 | 2 | Model and control problem formulation and analysis | Stephen Ampleman | Maven Holst |
 | 3 | Chip level control implementation | Dibakar Roy Sarkar | |
-| 4 | Chiller-plant differentiable predictive control | Honghui Zheng | Zhiyi Zhou |
+| 4 | Chiller-plant control implementation | Honghui Zheng |  |
 | 5 | Integration and visualization | Gaoyuan Wu | Honghui Zheng |
 | 6 | System-wide verification and release | Aaron Tuor | |
 | 7 | Model and policy synthesis agentic workflows | PNNL | |
