@@ -18,15 +18,24 @@ Led by **Johns Hopkins University**, in collaboration with **Pacific Northwest N
 
 [![CHIP2CHILLER project organization chart with investigators, researchers, partners, and task leads](https://raw.githubusercontent.com/Genesis-CHIP2CHILL/.github/main/profile/assets/genesis-team-chart.png)](https://raw.githubusercontent.com/Genesis-CHIP2CHILL/.github/main/profile/assets/genesis-team-chart.png)
 
+## MVP tasks
+
 | Task | Focus | Lead | Support |
 | --- | --- | --- | --- |
-| 1 | Differentiable models | Wei Wang | Maven Holst |
-| 2 | Liquid-cooling loop control | Stephen Ampleman | Dibakar Roy Sarkar |
-| 4 | Chiller-plant differentiable predictive control | Honghui Zheng | Zhiyi Zhou  |
-| 5 | Hierarchical control | Gaoyuan Wu | Maven Holst |
+| 1 | Chip level model implementation | Wei Wang | |
+| 2 | Model and control problem formulation and analysis | Stephen Ampleman | Maven Holst |
+| 3 | Chip level control implementation | Dibakar Roy Sarkar | |
+| 4 | Chiller-plant differentiable predictive control | Honghui Zheng | Zhiyi Zhou |
+| 5 | Integration and visualization | Gaoyuan Wu | Honghui Zheng |
 | 6 | System-wide verification and release | Aaron Tuor | |
+| 7 | Model and policy synthesis agentic workflows | PNNL | |
 
-<sub>Task numbers follow the project work plan. Siemens roster updated November 4, 2026. Task support updated November 4, 2026. [Image credits](https://github.com/Genesis-CHIP2CHILL/.github/blob/main/profile/IMAGE_CREDITS.md).</sub>
+## Extension tasks
+
+| Task | Focus | Lead | Support |
+| --- | --- | --- | --- |
+| 8 | UQ and stochastic problem formulations | Zhiyi Zhou | |
+| 9 | Workload scheduling | Gaoyuan Wu | |
 
 ## Explore
 
