@@ -27,7 +27,7 @@ Led by **Johns Hopkins University**, in collaboration with **Pacific Northwest N
 | 3 | Chip level control implementation | Dibakar Roy Sarkar | |
 | 4 | Chiller-plant control implementation | Honghui Zheng |  |
 | 5 | Integration, development workflows, and visualization | Gaoyuan Wu | Honghui Zheng |
-| 6 | System-wide verification and release | Aaron Tuor | |
+| 6 | System-wide verification and benchmarking | Aaron Tuor | |
 | 7 | Model and policy synthesis agentic workflows | PNNL | |
 
 ## Extension tasks
